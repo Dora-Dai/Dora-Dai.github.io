@@ -6,7 +6,7 @@ subtitle: Graduate Student @ Tsinghua University
 
 profile:
   align: right
-  image: szc.jpg
+  image: dxr.jpg
   image_circular: false # crops the image to make it circular
 <!--   address: >
     <p>📧 Email</p>
@@ -25,9 +25,10 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
  -->
-I am a second-year graduate student at [Division of Information Science and Technology](https://www.sigs.tsinghua.edu.cn/en/faculty_list/list.htm?key=), [Tsinghua Shenzhen International Graduate School](https://www.sigs.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm).
-<!-- I am also a research intern at [Secure Learning Lab](https://aisecure.github.io/), [UIUC](https://illinois.edu/), advised by Prof. [Bo Li](https://aisecure.github.io/) and was a research intern at [SCLBD](http://scl.sribd.cn/index.html), [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/). -->
-Before that, I obtained my B.E. degree (GPA: 4.22/5.0, Rank: 1) in Automation from [Dalian Maritime University](http://english.dlmu.edu.cn/).
+我是代晓蕊，目前在大连理工大学，就读硕士研究生，目前研三。研究方向是联邦学习后门攻击，对隐私安全领域十分感兴趣。
 
-My research interest lies in machine learning on medical image analysis. I currently focus on representation learning on high-resolution images for tumor diagnosis and survival prediction in computational pathology.
+作为研三的硕士研究生，我即将毕业，接下来将会去南京地平线工作，我的岗位是软件开发工程师。
+<!-- I am also a research intern at [Secure Learning Lab](https://aisecure.github.io/), [UIUC](https://illinois.edu/), advised by Prof. [Bo Li](https://aisecure.github.io/) and was a research intern at [SCLBD](http://scl.sribd.cn/index.html), [CUHK-Shenzhen](https://www.cuhk.edu.cn/en), advised by Prof. [Baoyuan Wu](https://sites.google.com/site/baoyuanwu2015/). -->
+
+作为研三的硕士研究生，我即将毕业，接下来将会去南京地平线工作，我的岗位是软件开发工程师。
 <!-- My long-term goal is to make machine learning algorithms robust and interpretable. -->
